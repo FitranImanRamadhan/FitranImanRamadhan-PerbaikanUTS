@@ -1,0 +1,21 @@
+{
+  "patients": [
+    {
+      "date": "2023-04-16",
+      "name": "Fitran Iman Ramadhan",
+      "usia": "20",
+      "poli": "Poli Gigi",
+      "id": 1
+    }
+  ],
+  "polies": [
+    {
+      "name": "Poli Umum",
+      "id": 1
+    },
+    {
+      "name": "Poli Gigi",
+      "id": 2
+    }
+  ]
+}
